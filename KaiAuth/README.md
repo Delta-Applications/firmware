@@ -1,6 +1,6 @@
-# KaiAuth
-Simple One Time Password Manager for KaiOS
-![KaiAuth icon](https://github.com/Delta-Applications/KaiAuth/raw/master/img/icons/app_112.png)
+# KaiAuth  
+Simple One Time Password Manager for KaiOS  
+![KaiAuth icon](https://github.com/Delta-Applications/KaiAuth/raw/master/img/icons/app_112.png) 
 
 ## What changes from original KaiAuth:
 - Support for codes with non-6 digit length
