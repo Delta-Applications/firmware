@@ -27988,31 +27988,9 @@
         }]), e
     }(u.Component);
     e.default = p;
-    window.ads = new KaiAd, window.ads.setConfig({
-        kai: {
-            app: "QRReader",
-            publisher: "e6dfb88f-ca58-4816-85ad-27eb07964d34",
-            loadingTheme: "light",
-            ads: {
-                splash: {
-                    slotName: "splash",
-                    type: "Interstitial"
-                },
-                bannerList: {
-                    slotName: "bannerList",
-                    type: "Banner"
-                },
-                goHistory: {
-                    slotName: "goHistory",
-                    type: "Interstitial"
-                }
-            },
-            timeout: 1
-        }
-    });
-            h.l10n.once(function () {
+    h.l10n.once(function () {
                 (0, u.render)((0, u.createComponentVNode)(2, p), document.body)
-            })
+    })
         
 }, function (t, e, r) {
     t.exports = {
