@@ -23,6 +23,7 @@ Utility applications that could or already fit the purpose of the Utility folder
 ### Messagistic
 
 Messagistic Based Apps (delta.chat, IRC, SMS, Whatsapp, Signal) that would cause bloatware, could be stored in a Messagistics/Communication folder, similiar to Carrier, but for messagistic applications, and bloatware apps such as Signal, Whatsapp, or IRC could be made downloadable, while delta.chat could be integrated with SMS App.  
+What could be used to achieve the SMS App message style would be to firstly make an opensoure version similiar to SMS App, and then write appropriate styling and scripts to create integrations that will use the basic functions to create, delete, and transform messages.  
 ![icon](icons/appicons/msg/folder_messages_112.png)
 
 - Alerts Application that grabs SMS Alerts like always, but also grabs Weather alerts from Accuweather when online and keeps them for a week  
