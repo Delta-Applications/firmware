@@ -1,0 +1,50 @@
+{
+  "version": "1.0.0",
+  "name": "Mocha VNC",
+  "subtitle": "VNC client for kaiOS",
+  "description": "Connect to a Windows PC or Mac and see the files, programs, and resources exactly as you would if you were sitting at your desk, just on a smaller screen.",
+  "launch_path": "/index.html",
+  "theme": "#6054EF",
+  "theme_color": "#6054EF",
+  "background_color": "#6054EF",
+  "fullscreen": "true",
+  "chrome": {
+    "statusbar": "overlap"
+  },
+  "developer": {
+    "name": "MochaSoft Aps",
+    "url": "https://mochasoft.dk"
+  },
+  "categories": [
+    "utility"
+    
+  ],
+  "icons": {
+    "56": "/icons/icon56x56.png",
+    "112": "/icons/icon112x112.png"
+  },
+  "developer": {
+    "name": "mochaSoft Aps",
+    "url": "https://mochasoft.dk"
+  },
+  "type": "privileged",
+  "permissions": {
+    "tcp-socket": {
+      "description": "Connect to the VNC server."
+    },
+    "mobiledata": {
+      "description": "To use mobile data."
+    },
+    "wifidata": {
+      "description": "To use wifi data."
+    }
+  },
+  "locales": {
+    "en-US": {
+      "name": "Mocha VNC",
+  "subtitle": "VNC client for kaiOS",
+  "description": "Connect to a Windows PC or Mac and see the files, programs, and resources exactly as you would if you were sitting at your desk, just on a smaller screen."
+    }
+  },
+  "default_locale": "en-US"
+}

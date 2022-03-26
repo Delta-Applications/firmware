@@ -1,0 +1,631 @@
+Manifest-Version: 1.0
+
+Name: .KaiAds.appinfo.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: rNEYsojGuenttOtzY7slug==
+SHA1-Digest: Nq/xqRd5MjbzezZ/oxHIRssaiXw=
+SHA256-Digest: jyyLOAYzt2jDJtQ89+smZzibhUAtuebaRwTs07hF5z0=
+
+Name: RELEASE_NOTES.md
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: tKy4Ar/jyZw/wdnvNnmRTw==
+SHA1-Digest: PcV64WWuNG9bz8N0DH++j+m7Q4w=
+SHA256-Digest: wOUvlQrlD2ZDLntl/vMaTdpFJBWYRP533ZXtCB6/DXg=
+
+Name: ads/assets/loading.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: q0xPaauTGSj7mVO21Ce8qg==
+SHA1-Digest: Az9dh7yP0fbrUTgUscyc4Kofb3k=
+SHA256-Digest: QWCan7y84/FuICbhrQ5eFCNH2uWFoaMhBLC37Bi2R0Y=
+
+Name: ads/sdk.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: UiSenbq/90FDhS3gbdyCdg==
+SHA1-Digest: yf+YJpwO1sVaXn/h4DyoxZzw5vM=
+SHA256-Digest: x5ILi3bRkcQ3fYXtiIvULiA74Asa08FP0PaUxjX47po=
+
+Name: ads/css/kaios_style.css
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: HKgk7KXJxKnlZmMW2T+BZg==
+SHA1-Digest: Vblk+pK3JICIcBNtJ7iovrIxEok=
+SHA256-Digest: FwOWQmmXK5PsdYoBKK9GOhW3W1JvgwOJRj53Sul5wUk=
+
+Name: assets/images/circular-loading__34Ka.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 614CtNjFaOChdydR+qm4xA==
+SHA1-Digest: kCB2BHeRyDAAjMc+TCsO7V9VxQ8=
+SHA256-Digest: gSeGicCqM8is2zvJrZKNZcmpsIvphG3THlrw0IUHQU0=
+
+Name: bundle.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: Z/oVC6l9L7XKffz74q77og==
+SHA1-Digest: 1SdFQkc/v9w912EzjFLh1MgNjMg=
+SHA256-Digest: tIxafYLcV32cWtewa0hAkAiEJmFnyCc6/gH6VXrJg+s=
+
+Name: index.html
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 5m3CMoKPhxzTXT1MHPP/hQ==
+SHA1-Digest: 0IJlA/R41cbpGA6Q2m4xhymb7ik=
+SHA256-Digest: Mi9BoCobEFWvuX1MQi7/EBv2Wcng11eugN734F+xvMk=
+
+Name: locales/weather.ar-SA.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: GP/JUCo/w44lISBT6tL3Pg==
+SHA1-Digest: znovsYZkNd8sq+vIEPYhr/8MeE8=
+SHA256-Digest: V+8cKdqF6SkB6k9uUgTS0nWJPe4kbkOfaSacsgy1f1k=
+
+Name: locales/weather.ar.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 1yQSZrMyVK3E3Ftwme14TQ==
+SHA1-Digest: 4I6cLQSgOYVu3v4Dhhg2wbC4a4U=
+SHA256-Digest: hQCxl7V2wQV+2wgoC3/DB0JTa4GoKnun7DdIJj8cPgY=
+
+Name: locales/weather.bg-BG.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 6xH4FTrT9ijg9Bn+nXOGRg==
+SHA1-Digest: BoqEuCsxRj0fQCmt49Q7mRJYIPA=
+SHA256-Digest: 5rH70/qDN3l4VfKeEMEKDHEewfOTB+/4+gjQJMbdrjo=
+
+Name: locales/weather.da-DK.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 9+aJ/M7mNjTX+1ecVIzpNg==
+SHA1-Digest: Ij1DdLuS59jlPdITAkYMac/LkA4=
+SHA256-Digest: 9Snubw4PZsqAtWwaO2SuU8oxR8ZXXO+ryPbacLP2sWw=
+
+Name: locales/weather.cs-CZ.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: xnfDuCaMCXAN03y5pAc1mQ==
+SHA1-Digest: 8RIq/MQgemLo5kn8pRFxhlZoBts=
+SHA256-Digest: jVchHBt8AFzDODc7uBI8N9m7dl5llgEW/2k7GY2CB4M=
+
+Name: locales/weather.de-DE.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: QogxuR81u2vueL4mvQwAWw==
+SHA1-Digest: SZ69lklmJxpqpztRWJMDgh801r0=
+SHA256-Digest: lsholMK4gp2EI/F1/PtrfxEx0pCOD13TicCRiacYlr4=
+
+Name: locales/weather.el-GR.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: OQFb4DxhBUTCq97WLVRjBQ==
+SHA1-Digest: op9L0LjhYQWZdXf5/ZXc/lfwvB4=
+SHA256-Digest: vFh2HhLaZIev4tLXtRmbSPloUh+0iXfTjvY6FYlWA3k=
+
+Name: locales/weather.de.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: dW+2OO014FFF+leIVrvnvA==
+SHA1-Digest: nn/ADP4NXvkNqIp8bS/TMR9HcEg=
+SHA256-Digest: j+aEEoqlUF+w8rHLqJMglfGEftp/qzzWhVaQG4n9ShE=
+
+Name: locales/weather.en-GB.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: /+kC3suY0letQz6Q86I+Ow==
+SHA1-Digest: FUl1hlCyJ6wJYPqFkKOMF5Izslg=
+SHA256-Digest: DGB7Ey2kePAkYW9ZBlfwXrHjDWuWXQ00tQfgMTtQUS4=
+
+Name: locales/weather.en-US.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: TkxrroLL4+xhUVxCl0UvQQ==
+SHA1-Digest: c4T79fs2PFnza2tdOc7LBq3WB3Q=
+SHA256-Digest: nPsQV333wdRa+1VjVtXNuGkvwH9oyffcVWI7M3QDCZo=
+
+Name: locales/weather.es-ES.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: Wl6g0Q9GmzLZGMwou3JsqA==
+SHA1-Digest: YulHHjpy2thQcI7FYKyzA4ZfL3U=
+SHA256-Digest: n/NqmrhndKhGQnwq06nWZkARCLSsccLIfdDP2cDulp0=
+
+Name: locales/weather.es-US.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 6uWtJUBlSXYVP/XcHAuXeA==
+SHA1-Digest: Wnk438aQlw0OxUEfIm5bhGiPMj0=
+SHA256-Digest: 9TND86GqU0EALNcW2JOv0pnkUk4DjVJkoBSbBOlnz74=
+
+Name: locales/weather.es.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: OWwTTp/Fogvi/aUFBmjAgQ==
+SHA1-Digest: BNlf8GHrrK81+c69LKEM3DZYehU=
+SHA256-Digest: fyi6NSjmGe1mXBYTaaIrG/K20stISmi1M0ZEDjntxrQ=
+
+Name: locales/weather.fi-FI.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: kq43++jZ/7uHXMJuzgZiGg==
+SHA1-Digest: 1fyk+eb3khiPHcDFhJaqAqbNrD4=
+SHA256-Digest: t5ELOkf0iAYALk8egfWKTmXhfgNj476k8UYEpRakuZo=
+
+Name: locales/weather.fr-CA.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: KFjG6gmHcipD2SKCs+XvQg==
+SHA1-Digest: QYyi0heU8kn0SM4mMp6Y0LFUKKk=
+SHA256-Digest: mqgLNWNxX4egvTovlOY2dZTAtfDjZeX0E2G9+0xyOTQ=
+
+Name: locales/weather.fr-FR.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 82RxLjZei+ggswRO2xxj9A==
+SHA1-Digest: 3uMkJ8hdZnWn/aw7azaVlSCxdyY=
+SHA256-Digest: 3973uQxC6qir7IH42Z3MT57DUOVThxCg20BJY4Yh/OM=
+
+Name: locales/weather.fr.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 64neDZhttjfZBGMIN4psYQ==
+SHA1-Digest: oip5R9g/WSV5msPJdp+NsLgi0ps=
+SHA256-Digest: OBkYlsbNLZ+JIyLZyveKCptS/AQ2K8GxWKmZKwUCHOI=
+
+Name: locales/weather.he-IL.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: krLk1VIV9X+QwO9/5DcOOg==
+SHA1-Digest: 5vkxxIhuHhalfAkgtnxTfEV5ZcI=
+SHA256-Digest: 9BVxwyV0s06VdUu2VD8g2fShqg5MxgYzlvaB0Hmv71s=
+
+Name: locales/weather.hi-HI.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: LXOwIKBpcNKtS7GO6jAQ9A==
+SHA1-Digest: HaTZGi72F2cB3Wsre5XNdBZaBMg=
+SHA256-Digest: yHCxWT7GGr/GsBLfoL29oDKU+XcvcZlQbC54reqpXJM=
+
+Name: locales/weather.hu-HU.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: EZi3/MgPbfKJhw9cUTtMIw==
+SHA1-Digest: 1QMayKEbbYXZBI+2ggZsuOxwyK4=
+SHA256-Digest: 43zYFqIczP9dDFt6ZmNzXxrZ+HjIaD6T5kxP1Dotusg=
+
+Name: locales/weather.it-IT.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: R8V50zxakBMsJdc5Dbhpxw==
+SHA1-Digest: aAriSv7B2m4YV9PdyCBCeEkt56c=
+SHA256-Digest: ynpLVFjni+OdKPFkEaA0i2XHXB3xxUh0+ZL2CHpcxyA=
+
+Name: locales/weather.nb-NO.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: rtzmFvdZdkiEIHNhBM4dIw==
+SHA1-Digest: wohwqHNyLHrREp2yE7ZKwt/qZEo=
+SHA256-Digest: zj/ndILD0u7BWmyvs7/MhB+7EYoSuo7ixYclKentO+Y=
+
+Name: locales/weather.pl-PL.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 7WJhcW6Lrmo6vu48oXF/fA==
+SHA1-Digest: HdLfBj8bCl3Y2CDt8T2PnY6Xddk=
+SHA256-Digest: 6htNIXs+n1KtBnYimc45TOE5dm3lo7sWRh6zcf7+5o0=
+
+Name: locales/weather.pt-BR.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: WmGxjDVKgohtp9UQNtjgIw==
+SHA1-Digest: wZ9ZZ/DSmOP4RIEUR7Tv6qx1ek0=
+SHA256-Digest: gqEMVlUHrphAEuNyIrFA1CvfTjLG1nyHR762vQR2cK0=
+
+Name: locales/weather.ro-RO.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: sCNAxG8hVOEFtZ2rWJ0WQA==
+SHA1-Digest: RLKbKQxcr9Riir85tX0U8G6qqNE=
+SHA256-Digest: gYzHnlQVYgIvijjSn3DJpr04l1JCo4WAvo50a1oNMSk=
+
+Name: locales/weather.pt-PT.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: lkotR+m6PuMrDtUJdHMSvA==
+SHA1-Digest: LJR8f4ZSASJu9dIO1rS0jt3jkRw=
+SHA256-Digest: 4FerxjnaRlG4M/sN5rzAmXUbIyZjFq6qzDM0YV8wkI4=
+
+Name: locales/weather.ru-RU.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: sFV6fhEIJzDGwU0k7NN7dQ==
+SHA1-Digest: SjT7cDXqJiNFshO0aHHd4UJM8jw=
+SHA256-Digest: 0zRwuDMZa/U91MUd2dd9cNafMuHPunjSVYZKC5cYCk0=
+
+Name: locales/weather.sk-SK.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: YZTPCJVLzSgN33CbOXEr3g==
+SHA1-Digest: sq1Jt37MReuYQMsh+3ElpA9m1PE=
+SHA256-Digest: 8qu00YYcw1tJQ5pUsXNfqicP3MNNm+CoT9kj4DuL1aw=
+
+Name: locales/weather.ru.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 3hjlmXrAdytsdn0NU+WxRQ==
+SHA1-Digest: jZXvob2onX4Q6vSbmHCiV7QvVdM=
+SHA256-Digest: 8Uni+dYrY0CgHkeN2FImvTaOGZ5eYOAmsASEE9WtE6M=
+
+Name: locales/weather.sv-SE.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: BkLMLWIqROszn0TBdl30yg==
+SHA1-Digest: riZ6n+r0xJjpWe/tzY91X9QnNSk=
+SHA256-Digest: dYNmuszbQtw9NUOTW1ixTjb9hdliEhjiNgxBooOqBYQ=
+
+Name: locales/weather.vi-VN.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: TLSB7oaWL/8ajUa5u74bjg==
+SHA1-Digest: 1Me0XNzosOuTcuVO5GluD3VwUJM=
+SHA256-Digest: yoYQWgdqxQbimlb3jbb0L/BUuTPAkc5Bt9Q79Iigk6s=
+
+Name: locales/weather.zh-CN.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: hiumcffJw+1Pl5LqlJwLtQ==
+SHA1-Digest: p4HqspKGN2FfHzD8aWn3m8nTleg=
+SHA256-Digest: g4/A5vS3djnURFSbfw9CH8P3bY4vCmDn0q/LFPeCtts=
+
+Name: locales/weather.zh-TW.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: FXfunC9pJAbWvcIjuWX+Eg==
+SHA1-Digest: 9yvddpMq0ruqRnwRultDbQOT9kU=
+SHA256-Digest: WiaU0p07MFlzlzw0xWVVNLcQqKDovDQNRa4bUv2BVmQ=
+
+Name: locales/weather.zh-HK.properties
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 8NKxtnLwMfmjIqxvZEPrSg==
+SHA1-Digest: UuD+g8zneeGSWqtzAkXuCFugZ84=
+SHA256-Digest: pR3pYu0h57sOAKpsNWBpEiBZaO2wVT1+RQsag84fEYU=
+
+Name: libs/lazy_loader.js
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: JCV90KE2zR5j4awDFRQc6w==
+SHA1-Digest: Ot5sRIDvEawvO9L52UcReSFFgIw=
+SHA256-Digest: jm7DYpUnhxui9dWopDnoTL4+XxgsWorjqAY1Rf5hATc=
+
+Name: manifest.webapp
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: s05631lUVayt3HuzD0y9WA==
+SHA1-Digest: 49zuNr5WlEfHm8N8XYlFHJ5ePUs=
+SHA256-Digest: +YmKXsd1h4nKycgRlyDlfHM7nlMMZrE47anyELRgfEQ=
+
+Name: resources/country_unit.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: wppCKrA/7aZwWCtwXx7duw==
+SHA1-Digest: FeYKHdYqtT/buy+Y3zzhmJFc97U=
+SHA256-Digest: pn9fPPnL/zDDdCKkDFyait833vfbj1hZgQL4XZzbpZk=
+
+Name: resources/icons/Normal.svg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: lVLjF+3abPkz42oRPmOlBw==
+SHA1-Digest: IL2Zl7wjtuBRjRlhHaBprt9PjBQ=
+SHA256-Digest: qtDqUvASr1Q+8RazbBCVuDIF8PytiDWdxMb7wkz68Nc=
+
+Name: resources/icons/Selected.svg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: y4d91VkiO9zeZhhds+E35Q==
+SHA1-Digest: rAdE4isGfBeFNaMsPTsUD2DB6Fk=
+SHA256-Digest: b58FBpMV71ntIrkHKiK/5zmi+R9G4WhG3NwbCwYwDRI=
+
+Name: resources/icons/circular-loading.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 614CtNjFaOChdydR+qm4xA==
+SHA1-Digest: kCB2BHeRyDAAjMc+TCsO7V9VxQ8=
+SHA256-Digest: gSeGicCqM8is2zvJrZKNZcmpsIvphG3THlrw0IUHQU0=
+
+Name: resources/icons/humidity.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 6grv6oVFcPfPlT8lmLHHDQ==
+SHA1-Digest: HWEm519h4f2/347B3I5WXfkC7II=
+SHA256-Digest: NxtoR0CCbLucsTFbHATYttTyeb1cTjFULJNso/8x8Wg=
+
+Name: resources/icons/img_accuweather_logo.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 2K2vsj6h95RHCI7DkaHWlg==
+SHA1-Digest: 6WajlGVo5t7Ibs4dBaSEE9c8eeY=
+SHA256-Digest: ONuEwV6VK9y87BmiVTsIRaYyrUcorHB3V7OrZ/7jt8M=
+
+Name: resources/icons/img_empty.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: KLUSgTbMeGxEMQaS4tl/Tw==
+SHA1-Digest: /TB1PFC1gfMnJOt25UX8TO5Hc4E=
+SHA256-Digest: 4MUywOMRm/erh6oxzkaLmiYQ8qc8edo2wolYqJxSIMg=
+
+Name: resources/icons/img_weather_na.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: GFe5CD4bgwvwmF2wZzGgFA==
+SHA1-Digest: Y68VIeVZ2ALximvqP9hAZ+Gmsqg=
+SHA256-Digest: ftbxo8Ig+edlKupLXPMghSQGzzenwEICqtO/mdt3P0k=
+
+Name: resources/icons/img_accuweather_logo_light.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: ulMx+qmr4PnF4YT1u5FVjw==
+SHA1-Digest: ZQekXGUT0v7I9H7feyxUnJWTtxk=
+SHA256-Digest: ugP8SnG8jl5gm9a6CGBTAKn9CznbZXym7ubhjxYGW6I=
+
+Name: resources/icons/next.svg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: SXUV3BMpj5gFkirvQ3g60Q==
+SHA1-Digest: uo6dsDRV+54Fz6Bsf2bR3ARF0L8=
+SHA256-Digest: 6Y2rg/AvnwRB6snzsShyTY6yz1P/dFyOecqz2XFdSRY=
+
+Name: resources/icons/lowest.svg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: QT2JCqCm1O/UvcddliYlrQ==
+SHA1-Digest: w71o9HN8R355GVzozGnOUgheRlk=
+SHA256-Digest: Z9Cbjt051yFtsvB+Fkq0gfNTGzCpsL6S8wIcFQEbeMM=
+
+Name: resources/icons/previous.svg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: c2unJwg+sHViLYOu2GForw==
+SHA1-Digest: 0jpuqbC3HpEm395qvqqrDI0NcQQ=
+SHA256-Digest: DYhDt2UI/0FKm4uv/h2x35YI2wPSNExbmyRSu2GrONE=
+
+Name: resources/icons/radioButton.svg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: SPp2O/6Lrld2pQ8U1Tsq1A==
+SHA1-Digest: LUJ3+ZopPEz3+gTphgm/kfA/h8Y=
+SHA256-Digest: RqWL95+nrCqxgnjsRrFjaDFyi2bWuXhsbxwQeinX2y4=
+
+Name: resources/icons/radioButtonSelected.svg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: Y8VnrChXin41LXssEb2Org==
+SHA1-Digest: 5IuHa+wmSORxvJBTpLun3wiQEjY=
+SHA256-Digest: XYVwFArzh5JVRVzT4EhvlQbc5hg5AuT8cqD4a1A9uws=
+
+Name: resources/icons/uv.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: gdjquN4tiCDpB3rx3Zqz1g==
+SHA1-Digest: BkqlmoSK70BdxAHe+I7LMcfGCQ8=
+SHA256-Digest: IvvrYWbsT4lkRNq4LgIX0ADqWk82/TPrWsbWXc1YYFo=
+
+Name: resources/icons/weatherIcons/1.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: +7dGp/2CSwudAvogzc+fmg==
+SHA1-Digest: XtCSULU9D1y/yf4X0co8nUdz7cE=
+SHA256-Digest: YoB8M/Rzhnsq/mbsdJHldWqAWxuu9aim2sQxuBft8TE=
+
+Name: resources/icons/weatherIcons/11.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: NKiLiYHJ0S2L5FZjWgQIfQ==
+SHA1-Digest: Tz6IsBKvldLCdd/hOCyhHA9mpSI=
+SHA256-Digest: EsQ9bO18a20WNmNGj7fZa16eOIq2PZRdyYzXI4dIB4s=
+
+Name: resources/icons/weatherIcons/12.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: X62CaW18tlZlfqXIsDixaA==
+SHA1-Digest: Gr7v49w6FIXrrL5z9z7xuG2hvNM=
+SHA256-Digest: eKRbimu2I3aCcNvXa2+xk1fgV1qLcoNrsHW7oUDSfM8=
+
+Name: resources/icons/weatherIcons/13.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: JnfggIpaFBILy1Hpkk4M6g==
+SHA1-Digest: T4k07zEUwHF06PWz6N1PzAdQI5c=
+SHA256-Digest: PoQSZJDas6KufuR2QU4hhHlgZliHeRccfQD6s+8aDec=
+
+Name: resources/icons/weatherIcons/14.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: JnfggIpaFBILy1Hpkk4M6g==
+SHA1-Digest: T4k07zEUwHF06PWz6N1PzAdQI5c=
+SHA256-Digest: PoQSZJDas6KufuR2QU4hhHlgZliHeRccfQD6s+8aDec=
+
+Name: resources/icons/weatherIcons/15.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: +sPQa6l12bakwI88CQJIEQ==
+SHA1-Digest: snh1ZpC39sKszEqBYEDZs5Dei8M=
+SHA256-Digest: xWybzIeoL9NYDc7h2+TKUcyVRlvpjQ7EMNbXfl1VTko=
+
+Name: resources/icons/weatherIcons/16.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: SGksb9uM0CZvsb2dVE+uVA==
+SHA1-Digest: /PPAD2iYzv34CoqUR+o77sIOAmM=
+SHA256-Digest: 7Mkv9+9GG4J4BgY4yBxA2+jslvPTjFfRDymk0GlBJNk=
+
+Name: resources/icons/weatherIcons/17.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: V3hWECwnmOSBRumm2wzEAA==
+SHA1-Digest: MYs/c0wx2/7KlZJ6Hr72njtmJEE=
+SHA256-Digest: mmJQmJYVGlNf2GFf+NlT3zsqneHtQcnEp/hbJiv9QEE=
+
+Name: resources/icons/weatherIcons/18.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: xOxE5/1x5TnqPhqalLTlnA==
+SHA1-Digest: WSzJpoIj0QdU8Un/30PrvlZ2jLg=
+SHA256-Digest: ldYpzVbSMANF84t5pSCZhe1DU/qFFQFuTDQnmG1yBh8=
+
+Name: resources/icons/weatherIcons/19.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 5l7tKaI17F1xTjg1+cCubQ==
+SHA1-Digest: 3DObLH5vubTVreLyAvO4Lrsqsa4=
+SHA256-Digest: kOHzBcLozAlNPdxwK0FsfEDQeLyzkUwXUTNt4OOV+yc=
+
+Name: resources/icons/weatherIcons/2.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 3La9xagPkStY0KlnTMe3Rg==
+SHA1-Digest: 0cNchLVKLakBQ48XNhFxWtvL4J8=
+SHA256-Digest: KZ5MC8vLLbGn5HogMD8IRhw3KWuJDeuxs5AKbMlGxWI=
+
+Name: resources/icons/weatherIcons/20.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: uu0y6vpfOQSnI8sBZwc05g==
+SHA1-Digest: +EHDHPE2tc7hpf7GTS/3lQUWczc=
+SHA256-Digest: 5hSGvw60bfAcADRaOWVjnDcfIeuC3/UOZC2kXKwI6/0=
+
+Name: resources/icons/weatherIcons/22.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: rcwLxWjm7WU9gQj9lgTyWg==
+SHA1-Digest: OrZg44G9ymLD1qVx+vicxOcCge0=
+SHA256-Digest: dpHhcJ2/xxL9mZ5fT1g8CA+RDnMy25uyak2LyzaQcEk=
+
+Name: resources/icons/weatherIcons/23.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: qb7frSCb5HemTuno9Svj+A==
+SHA1-Digest: MDaikL7zii8TWPSkiqsPKvHLlrk=
+SHA256-Digest: K97uzzqXVUnal1rkU33Io6C3pd1LdVvrah8dYSjOnRw=
+
+Name: resources/icons/weatherIcons/21.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: uu0y6vpfOQSnI8sBZwc05g==
+SHA1-Digest: +EHDHPE2tc7hpf7GTS/3lQUWczc=
+SHA256-Digest: 5hSGvw60bfAcADRaOWVjnDcfIeuC3/UOZC2kXKwI6/0=
+
+Name: resources/icons/weatherIcons/24.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: WZt6FIrcVDxROZsVVufitA==
+SHA1-Digest: FKEY9zn7Zuwm8YlMKhuWfIBHB4s=
+SHA256-Digest: 0/ixlqHx3OeheynqMuMJ3XQUFo+hKrUdYpVZF63Anbo=
+
+Name: resources/icons/weatherIcons/26.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: cb2fYOATmQrmklfzTNyNLw==
+SHA1-Digest: 3FsLSbclRf7TPdgigoO/1nrdGUI=
+SHA256-Digest: 5Yp0pJ+slnGkgxgSc/LHRqJqNv4e4H5T3LnPtk8MfFo=
+
+Name: resources/icons/weatherIcons/25.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 44+tFeSNS9nUjbYLZbOxfQ==
+SHA1-Digest: 2hGh+hj1sOUtf3vj8d0xD89y45Q=
+SHA256-Digest: eVq3KnSBe9OdYZ1x80mm/YL8/bLfFCnS6ZOJrRVg0dM=
+
+Name: resources/icons/weatherIcons/29.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: IuuxFlVrdeCtKs2/YMY9bg==
+SHA1-Digest: SeyBrLL3FTuNAGAjrCL1+ubCTKU=
+SHA256-Digest: QdIs7b0q7uhVzDib2FElBac7R3PeIyyTGlnB+DD1jTI=
+
+Name: resources/icons/weatherIcons/3.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: ABkVHYk1SNsv7SGjaP0A9Q==
+SHA1-Digest: UqcPnRoRGv1BctUvdYdQwYek8HY=
+SHA256-Digest: vYqwnKcAV74598AQLUt9+GGodNhmN7TvkNz/QwgG+LQ=
+
+Name: resources/icons/weatherIcons/31.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: stSh6byaQRgDsx3SMxOClg==
+SHA1-Digest: klvndx6WnUa4EM16zb6LkAmZmVo=
+SHA256-Digest: z1AqZM03xtAPR/xEcjgCn1dM7JXSq4Ic7aRwm8nJQo8=
+
+Name: resources/icons/weatherIcons/32.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: YQIdAolTJXSI7nfbtjP32A==
+SHA1-Digest: ZDVVGrYMn8DyQn3udVzkquUOdCo=
+SHA256-Digest: RrUdbrSkAvevkKiFsdakNJSY7/ztwSzNFjB2QPq5KmM=
+
+Name: resources/icons/weatherIcons/30.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 0qPiAESR2JvznAOO5vc6TQ==
+SHA1-Digest: Vxcgc4omSHUjpwHHAlHCpGtk/iU=
+SHA256-Digest: vnhQBawF2NnGLRZzEUtDwDkrMyWeS7iT6rK3O1A2h6c=
+
+Name: resources/icons/weatherIcons/34.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: dW7pF/Mr46lwk/IDfSV/lw==
+SHA1-Digest: YT/0DEqyTHM3WcbIHpFS/vc3J6c=
+SHA256-Digest: GlnQo8Cc5rZP5DhVUFhO8fpQn/E5K6xG3X68LO6KERI=
+
+Name: resources/icons/weatherIcons/33.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: EfWsIAi7SH+7tnj1SStX7g==
+SHA1-Digest: a+eObiAYeatV/y/bAPY4vZI126E=
+SHA256-Digest: 3OJO5k3ayXHN7ugdV9AJdWUO1QRymYwqwxFZrLl+1xk=
+
+Name: resources/icons/weatherIcons/36.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: GjwOuP60CLfkmo1m5/6kag==
+SHA1-Digest: jZdXTGntcEW1tTLIlYCIeNgnh3Y=
+SHA256-Digest: Hjn8h+8k5IEYerU7YWOgnuGU/Rd3uLhvglVQ3h47BRE=
+
+Name: resources/icons/weatherIcons/37.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: Vp0L8F5GTT+guoCiUJsrow==
+SHA1-Digest: BessNa41bgHh15hbfPW6ZlcnBpM=
+SHA256-Digest: ItJS68gdOhpjmzQdpsIuX4/aU8YpGxxoQ2lVzYuxw8Q=
+
+Name: resources/icons/weatherIcons/35.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: GjwOuP60CLfkmo1m5/6kag==
+SHA1-Digest: jZdXTGntcEW1tTLIlYCIeNgnh3Y=
+SHA256-Digest: Hjn8h+8k5IEYerU7YWOgnuGU/Rd3uLhvglVQ3h47BRE=
+
+Name: resources/icons/weatherIcons/38.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: LCRKOK/3QDVSlebfxBZZGg==
+SHA1-Digest: afN3S3BwPAxCqWHkXZSfvqqqeOw=
+SHA256-Digest: XnTfc9Vatfa1ieFd+Zxq59Ni3so4bnAsMowBATxr9pc=
+
+Name: resources/icons/weatherIcons/39.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: DrWCRdOR1/axRe4eRlXWKA==
+SHA1-Digest: kPkbl+hPvx003r0CeTHvq3TIlIo=
+SHA256-Digest: TPiz1hEw5ufrA7X2zRoZzCdt+xgI/0jbXx83sWlslWQ=
+
+Name: resources/icons/weatherIcons/4.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: ABkVHYk1SNsv7SGjaP0A9Q==
+SHA1-Digest: UqcPnRoRGv1BctUvdYdQwYek8HY=
+SHA256-Digest: vYqwnKcAV74598AQLUt9+GGodNhmN7TvkNz/QwgG+LQ=
+
+Name: resources/icons/weatherIcons/40.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: DrWCRdOR1/axRe4eRlXWKA==
+SHA1-Digest: kPkbl+hPvx003r0CeTHvq3TIlIo=
+SHA256-Digest: TPiz1hEw5ufrA7X2zRoZzCdt+xgI/0jbXx83sWlslWQ=
+
+Name: resources/icons/weatherIcons/41.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 5ZJi2TpdhihB/6WZwmUwhA==
+SHA1-Digest: PGUQcWWnwDDaOpUEO1lTvr0Ybjo=
+SHA256-Digest: QOLDKGez/5wYE2vhonjvuUu80vzOaxH8nZ58FbXL5dg=
+
+Name: resources/icons/weatherIcons/42.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 25SXj/PB1QJ+pgCz6uNvSw==
+SHA1-Digest: zhK6eyaLikQutEMQT2N7yROA7LM=
+SHA256-Digest: Ihvwe8s31Ttowk/2kwiPe9HbdMUZTmV8jQO3xjz47AQ=
+
+Name: resources/icons/weatherIcons/43.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: hLYZra5G1aKpYwRKd4Ndng==
+SHA1-Digest: yHCCtyY6+W2ypx0g8rXyiVbIAw4=
+SHA256-Digest: nPBONXx9ZPfY0CMfTlOg4PJCNES6uyds+gi9AwCrmsc=
+
+Name: resources/icons/weatherIcons/5.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: Q+icwrMuUDknlZhTn88klQ==
+SHA1-Digest: c3GykOyaSn1+kIO5J4yJxqKArig=
+SHA256-Digest: kcALm8v0EuE99l/zL/w1SNLSl2lEJ4c0Iv1ElA+ridA=
+
+Name: resources/icons/weatherIcons/6.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: 2dwvT7pIUg2n5WJx5e0jBw==
+SHA1-Digest: meEdc4aAVZ5qLL3CwCt1GOLDUo4=
+SHA256-Digest: EqyC8UGt6pLk5rZ55vwTRZPvRhS3Xu/ka+vphtBXq2Q=
+
+Name: resources/icons/weatherIcons/44.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: LT0dPRfOZZkyZzDpV2LCaw==
+SHA1-Digest: cCOSuyibmFAnRyHg5bbQNG/a/mI=
+SHA256-Digest: ArM+HgF1UpzDxVprDWgbXBwRQVWZw7AZWviKRvbhDLI=
+
+Name: resources/icons/weatherIcons/7.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: +yTkru6c20Rt001WK2ugxw==
+SHA1-Digest: 4e1DZM+yWu23b+tb+46oOYsYFn4=
+SHA256-Digest: yaJlTj95oGGQOMBA7qzgQxj707N3hfedRKhfu/lsY70=
+
+Name: resources/icons/weatherIcons/8.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: nwAYGQdKB/a7ZM56ByevIw==
+SHA1-Digest: wBuT6xmKM1n1j+BtDjJym+WZCr8=
+SHA256-Digest: 85RiEWEooIZQUj0c2UyCASyPh1CbzKui7WWAdPAvDLc=
+
+Name: resources/icons/weather_112.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: TK0DMXCb/kMK2PUSDhmfEg==
+SHA1-Digest: coXmdy8sIk1zcmtgtTghWhY/cdY=
+SHA256-Digest: MbiwdmInPhBoXhG02x9R2YJ23TYUD6VuV22AQhSiZoc=
+
+Name: resources/icons/unchecked.svg
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: WcjFW9vGcYe09Fdezf3JWQ==
+SHA1-Digest: qdHqdvyBuf76xRMmyH2wl3RwyjY=
+SHA256-Digest: SfX3ftccJwTdMjMuKFC9gU1JaJ7ijqBklITjwAIwxpQ=
+
+Name: resources/icons/weather_56.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: s/kFYYmMgeikL1h/opbflw==
+SHA1-Digest: uZrtcx6hGoyGtCelXEB3k0kVWQ8=
+SHA256-Digest: bseXf6+PcA98czWomV8jFnNon3Rhs6wzDBmlrFE8Co0=
+
+Name: resources/icons/wind.png
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: YA6kZ9RYHBcUs7esKZmIMw==
+SHA1-Digest: VEN4Nk7KqNZ9TijYX8OL1uQxyBI=
+SHA256-Digest: kK9VXdn1E9nrbLsDlt+BoOdZnyS4jtop5Bn2CQzYELc=
+
+Name: style.css
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: za3p3qakZebBk2pZKOd6PQ==
+SHA1-Digest: juAy/R1rMkXKUTcG40E0LaI1ecg=
+SHA256-Digest: nUkWs/GfRPqs5W62KVxjRZQHGI7txa8FcraT9Uckq80=
+
+Name: META-INF/ids.json
+Digest-Algorithms: MD5 SHA1 SHA256
+MD5-Digest: My7rLtfGodWr9linBeI5VQ==
+SHA1-Digest: J52XEm9FqdM6RAkL1LNPPDgo+2Q=
+SHA256-Digest: d02IOrqSUcxd0D2SV11Q9AWETpQi6XcVnWmgGhtVhVE=
