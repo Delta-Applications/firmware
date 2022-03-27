@@ -199,9 +199,6 @@
     "112": "/resources/icons/weather_112.png"
   },
   "orientation": "default",
-  "dependencies": {
-    "ads-sdk": "1.5.7"
-  },
   "chrome": {
     "statusbar": "overlap"
   }

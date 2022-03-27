@@ -6,9 +6,6 @@
   "subtitle": "Just point camera to read the QR code",
   "launch_path": "/index.html",
   "type": "privileged",
-  "dependencies": {
-    "ads-sdk": "1.3.0"
-  },
   "permissions": {
     "camera": {
       "description": "Required for accessing cameras on the device."
