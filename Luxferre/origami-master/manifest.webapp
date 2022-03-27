@@ -1,0 +1,36 @@
+{
+  "version": "0.0.1",
+  "name": "OrigAMI",
+  "description": "Origins of Application Marketless Installation",
+  "launch_path": "/index.html",
+  "type": "certified",
+  "icons": {
+    "56": "/img/icon56.png",
+    "112": "/img/icon112.png"
+  },
+  "developer": {
+    "name": "Luxferre"
+  },
+  "origin": "app://origami.bananahackers.net",
+  "fullscreen": true,
+  "permissions": {
+    "engmode-extension": {
+      "description": "Handle KaiOS 2.5.1+ devices"
+    },
+    "external-api": {
+      "description": "Handle KaiOS 2.5.1+ devices"
+    },
+    "kaiosextension": {
+      "description": "Handle KaiOS 2.5 devices"
+    },
+    "jrdextension": {
+      "description": "Handle KaiOS 1.0 devices by TCL"
+    },
+    "settings": {
+      "access": "readwrite",
+      "description": "Enable hidden settings modification"
+    }
+  },
+  "theme_color": "#000064",
+  "cursor": "false"
+}

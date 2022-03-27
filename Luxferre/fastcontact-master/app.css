@@ -1,0 +1,247 @@
+* {box-sizing: border-box}
+
+@font-face {
+  font-family: "main";
+  src: url("main.ttf") format("truetype");
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height:100%;
+  position: fixed;
+  left: 0;
+  top: 0;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+body {
+  font-size: 16px;
+  background: #000;
+  color: #eee;
+  font-family: main, "Open Sans", OpenSans, sans-serif;
+}
+
+main {
+  margin: 0;
+  padding: 26px 0 0;
+  background: #111;
+}
+
+.clist {
+  display: block;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  width: 100%;
+  height: calc(100vh - 56px);
+}
+
+.clist.withsearch {
+  height: calc(100vh - 56px - 50px);
+}
+
+.clist>[data-list-id] {
+  display: block;
+  width: 100%;
+  padding: 1.1rem 1rem;
+  height: 53px;
+  position: relative;
+}
+
+.clist>[data-list-id].active {
+  background: #017ee5;
+}
+
+/* app menu styling begin */
+
+.appmenu {
+  position: fixed;
+  bottom: 30px;
+  display: block;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  width: 100%;
+  height: auto;
+  z-index: 888;
+}
+
+.appmenu>[data-list-id] {
+  display: block;
+  width: 100%;
+  padding: 0.5rem 1rem;
+  height: 20%;
+  background: #111;
+}
+
+.appmenu>[data-list-id].active {
+  background: #017ee5!important;
+}
+
+.appmenu[data-menu-key="mainmenu"] {
+  text-align: right;
+}
+
+.appmenu[data-menu-key="mainmenu"]>[data-list-id] {
+  width: 68%;
+  text-align: left;
+  display: inline-block;
+  background: #131313;
+}
+
+/* app menu styling end */
+
+.hidden {display:none!important}
+
+#softkeys {
+  position: fixed; bottom: 0; left: 0; width: 100%; height: 30px;
+  background: #111;
+  padding: 0;
+  color: #ddd;
+}
+
+#softkeys > * {
+  display: inline-block;
+  width: 72px;
+  padding: 4px 5px;
+}
+
+#softkey-left, #softkey-right {
+  font-weight: 400;
+  font-size: 15px;
+}
+
+#softkey-right {
+  text-align: right;
+}
+
+#softkey-center {
+  font-weight: 600;
+  font-size: 16px;
+  width: 88px;
+  text-align: center;
+}
+
+.toast {
+  position:fixed;
+  left:0;
+  top: -54px;
+  width: 100%;
+  background-color: #363636;
+  min-height: 36px;
+  color: #ffffff;
+  text-align: center;
+  word-wrap: break-word;
+  opacity: 0;
+  z-index: 99999;
+  transition: transform 0.25s, opacity 0.25s, top 0.25s, bottom 0.25s;
+  box-sizing: border-box;
+  max-width: 18rem;
+  padding: 26px 8px 8px;
+}
+
+.toast.active {
+  opacity: 1;
+  top: 0;
+}
+
+.translucent {
+  opacity: 0.4!important;
+}
+
+.cedit {
+  display: block;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  width: 100%;
+  height: calc(100vh - 30px);
+}
+
+.cedit>[data-list-id] {
+  display: block;
+  width: 100%;
+  padding: 13px 1rem;
+  height: 53px;
+  background: #111;
+}
+
+.cedit>[data-list-id].active {
+  background: #017ee5;
+}
+
+.cedit input {
+  background: #111;
+  color: #eee;
+  width: 100%;
+  font-family: main, "Open Sans", OpenSans, sans-serif;
+  font-size: 1rem;
+}
+
+.contact-device, .contact-sim1, .contact-sim2 {
+  display: inline-block;
+  max-width: calc(100% - 30px);
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.contact-device:after, .contact-sim1:after, .contact-sim2:after {
+  content: '';
+  display: inline-block;
+  position: absolute;
+  top: 9px;
+  right: 10px;
+  height: 35px;
+}
+.contact-device:after {
+  background: url(img/sim-icons.png) -53px 0;
+  right: 16px;
+  width: 15px;
+}
+.contact-sim1:after {
+  background: url(img/sim-icons.png) 0 0;
+  width: 26px;
+}
+.contact-sim2:after {
+  background: url(img/sim-icons.png) -27px 0;
+  width: 26px;
+}
+
+.searchdial {
+  display: block;
+  position: fixed;
+  left: 0;
+  bottom: 30px;
+  height: 50px;
+  padding: 10px 1rem;
+  text-align: center;
+  font-size: 2rem;
+  width:100%;
+  background: #02345d;
+}
+
+.loadscreen {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0,0,0,0.88);
+  color: #eee;
+  font-size: 2rem;
+  text-align: center;
+}
+
+.loadscreen > span {
+  display: inline-block;
+}

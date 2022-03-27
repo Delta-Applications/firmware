@@ -1,0 +1,40 @@
+{
+  "version": "0.0.10",
+  "name": "FastLog",
+  "description": "A lightweight alternative to stock KaiOS call log",
+  "launch_path": "/index.html",
+  "type": "certified",
+  "icons": {
+    "56": "/img/icon-56.png",
+    "112": "/img/icon-112.png"
+  },
+  "developer": {
+    "name": "Luxferre"
+  },
+  "origin": "app://fastlog.bananahackers.net",
+  "permissions": {
+    "telephony": {},
+    "mobileconnection": {},
+    "bluetooth": {},
+    "phonenumberservice": {},
+    "flashlight": {},
+    "settings": {"access": "readonly"},
+    "contacts": {"access": "readwrite"}
+  },
+  "theme": "#017ee5",
+  "theme_color": "#017ee5",
+  "background_color": "#017ee5",
+  "chrome": {
+    "statusbar": "overlap"
+  },
+  "messages": [
+    {"telephony-call-ended": "/index.html"},
+    {"bluetooth-dialer-command": "/index.html"}
+  ],
+  "datastores-access": {
+    "calllog": {
+      "access": "readonly"
+    }
+  },
+  "cursor": "false"
+}

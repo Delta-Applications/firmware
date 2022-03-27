@@ -1,5 +1,8 @@
 # firmware
 [![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)  
+
+-- PERSONAL COLLECTION OF MANTAINED, UNMANTAINEND AND MODIFIED APPLICATIONS --
+
 This is a collection of apps, that could be applied to more or only the Utility category, for example, Weather, a QR Reader, a modern version of Wallace Toolbox,
 a custom FM Radio that doesn't require headphones, etc.
 

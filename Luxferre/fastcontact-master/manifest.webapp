@@ -1,0 +1,41 @@
+{
+  "version": "0.1.12",
+  "name": "FastContact",
+  "description": "A lightweight alternative to stock KaiOS contact list app",
+  "launch_path": "/index.html",
+  "type": "certified",
+  "icons": {
+    "56": "/img/icon-56.png",
+    "112": "/img/icon-112.png"
+  },
+  "developer": {
+    "name": "Luxferre"
+  },
+  "origin": "app://fastcontact.bananahackers.net",
+  "permissions": {
+    "telephony": {},
+    "mobileconnection": {},
+    "flashlight": {},
+    "contacts": {"access": "readwrite"}
+  },
+  "activities": {
+    "pick": {
+      "filters": {
+        "type": {
+          "required": true,
+          "value": ["webcontacts/contact", "webcontacts/tel", "webcontacts/select"]
+        }
+      },
+      "disposition": "inline",
+      "href": "/index.html#pick",
+      "returnValue": true
+    }
+  },
+  "theme": "#017ee5",
+  "theme_color": "#017ee5",
+  "background_color": "#017ee5",
+  "chrome": {
+    "statusbar": "overlap"
+  },
+  "cursor": "false"
+}

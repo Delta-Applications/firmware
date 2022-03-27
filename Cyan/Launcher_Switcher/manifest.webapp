@@ -8,7 +8,8 @@
 	"icons": {
 		"56": "app://settings.gaiamobile.org/style/icons/settings_56.png",
 		"84": "app://settings.gaiamobile.org/style/icons/settings_84.png",
-		"112": "app://settings.gaiamobile.org/style/icons/settings_112.png"
+		"112": "app://settings.gaiamobile.org/style/icons/settings_112.png",
+		"126": "/icon.png"
 	},
 	"launch_path": "/index.html",
 	"origin": "app://launcher-switcher.bananahackers.net",
