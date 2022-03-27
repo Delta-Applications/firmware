@@ -1,0 +1,22 @@
+{
+	"name": "O​mniS​D",
+	"description": "Install apps using the self-debug method!",
+	"theme_color": "#0077B6",
+	"type": "certified",
+	"permissions": {
+		"tcp-socket": {},
+		"engmode-extension": {},
+		"device-storage:sdcard": {
+			"access": "readwrite"
+		},
+		"device-storage:sdcard1": {
+			"access": "readwrite"
+		}
+	},
+	"launch_path": "/index.html",
+	"icons": {
+		"56": "/img/56.png",
+		"112": "/img/112.png"
+	},
+	"origin": "app://omnisd2.bananahackers.net"
+}

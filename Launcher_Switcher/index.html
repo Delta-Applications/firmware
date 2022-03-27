@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Launcher Swicther</title>
+		<link rel="stylesheet" href="app://settings.gaiamobile.org/shared/elements/gaia-icons/gaia-icons.css" />
+		<link rel="stylesheet" href="app://settings.gaiamobile.org/shared/elements/gaia-theme/gaia-font.css" />
+		<link rel="stylesheet" href="app://settings.gaiamobile.org/shared/elements/gaia-theme/gaia-theme.css" />
+
+		<link rel="stylesheet" href="app://settings.gaiamobile.org/style/lists.css" />
+		<link rel="stylesheet" href="app://settings.gaiamobile.org/style/settings.css" />
+
+		<link rel="stylesheet" href="app://settings.gaiamobile.org/shared/style/headers.css" />
+
+		<link rel="stylesheet" href="app://settings.gaiamobile.org/style/apps.css" />
+	</head>
+	<body data-ready="true" class="skin-organic uninit theme-settings">
+		<div class="statusbar-placeholder"></div>
+		<section data-rendered="true" class="current" data-dialog="true" role="region" id="homescreens">
+			<gaia-header style="background-color: #20407b; padding-top: 3px; padding-bottom: 2px" action="back" data-href="#root">
+				<h1 data-l10n-id="homescreens-header">Homescreens</h1>
+			</gaia-header>
+
+			<div id="listo_con" data-nav-id="0">
+				<ul id="listo"></ul>
+			</div>
+		</section>
+		<div class="softkeys">
+			<div class="softkey softkey-left"></div>
+			<div class="softkey softkey-center">select</div>
+			<div class="softkey softkey-right"></div>
+		</div>
+	</body>
+	<style>
+		li img {
+			filter: drop-shadow(0px 2px 2px rgba(0, 0, 0, 0.5)) !important;
+		}
+	</style>
+	<style>
+		gaia-header {
+			display: block;
+			user-select: none;
+			--gaia-header-button-color: var(--header-button-color, var(--header-color, var(--link-color, inherit)));
+		}
+		gaia-header[hidden] {
+			display: none;
+		}
+		gaia-header .l10n-action {
+			position: absolute;
+			left: 0;
+			top: 0;
+			width: 100%;
+			height: 100%;
+			font-size: 0;
+		}
+		gaia-header h1,
+		gaia-header h2 {
+			flex: 1;
+			margin: 0;
+			padding: 0;
+			overflow: hidden;
+
+			white-space: nowrap;
+			text-overflow: ellipsis;
+			text-align: center;
+
+			color: var(--color-gs10, #f0f0f0);
+		}
+		gaia-header div.headers-container {
+			min-width: 0;
+			width: 100%;
+		}
+		gaia-header a,
+		gaia-header button {
+			position: relative;
+			z-index: 1;
+			box-sizing: border-box;
+			display: flex;
+			width: auto;
+			min-width: 50px;
+			margin: 0;
+			padding: 0 10px;
+			outline: 0;
+			border: 0;
+
+			font-size: 14px;
+			line-height: 1;
+			align-items: center;
+			justify-content: center;
+			text-decoration: none;
+			text-align: center;
+			background: none;
+			border-radius: 0;
+			font-style: italic;
+			cursor: pointer;
+			transition: opacity 200ms 280ms;
+			color: var(--gaia-header-button-color);
+		}
+		gaia-header a:active,
+		gaia-header button:active {
+			transition: none;
+			opacity: 0.2;
+		}
+		gaia-header a[hidden],
+		gaia-header button[hidden] {
+			display: none;
+		}
+		gaia-header a[disabled],
+		gaia-header button[disabled] {
+			pointer-events: none;
+			color: var(--header-disabled-button-color);
+		}
+		gaia-header .icon,
+		gaia-header [data-icon] {
+			color: var(--header-icon-color, var(--gaia-header-button-color));
+		}
+		gaia-header .action {
+			color: var(--header-action-button-color, var(--header-icon-color, var(--gaia-header-button-color)));
+		}
+		gaia-header [data-icon]:empty {
+			width: 50px;
+		}
+	</style>
+	<style>
+		:focus {
+			color: #ffffff;
+			background-color: var(--highlight-color) !important;
+		}
+		:focus a {
+			color: #ffffff;
+		}
+	</style>
+	<script src="app.js"></script>
+	<style>
+		.softkeys,
+		.softkeys-icon {
+			box-sizing: border-box;
+			padding: 0.5rem;
+			column-gap: 0.5rem;
+			/* grid-gap is an old way of saying column-gap */
+			grid-gap: 0.5rem;
+			display: grid;
+			height: 3rem;
+			background: #cccccc;
+			color: #323232;
+			grid-template-columns: 7.2rem 7.6rem 7.2rem;
+			position: fixed;
+			bottom: 0;
+			left: 0;
+			z-index: 100;
+		}
+
+		.softkey {
+			overflow: hidden;
+			vertical-align: middle;
+			height: 2rem;
+		}
+
+		.softkey-left {
+			font-size: 1.4rem;
+			font-weight: 600;
+			text-align: start;
+			text-transform: var(--capitalization);
+		}
+
+		.softkey-center {
+			font-size: 1.7rem;
+			font-weight: 700;
+			text-align: center;
+			text-transform: uppercase;
+		}
+
+		.softkey-right {
+			font-size: 1.4rem;
+			font-weight: 600;
+			text-align: end;
+			text-transform: var(--capitalization);
+		}
+	</style>
+</html>
