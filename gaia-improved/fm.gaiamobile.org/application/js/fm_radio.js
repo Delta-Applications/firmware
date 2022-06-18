@@ -84,6 +84,7 @@
         FrequencyList.updateFavoriteListUI();
       //}
     });
+    WarningUI.update();
 
     // PERFORMANCE EVENT (5): moz-app-loaded
     // Designates that the app is *completely* loaded and all relevant

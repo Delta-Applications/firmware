@@ -4,15 +4,19 @@
 (function(exports) {
 
   var WarningUI = function() {};
+  var shownAntennaWarning = false;
 
   WarningUI.prototype.update = function() {
     var hiddenState = false;
 
     // If current device has no valid antenna,
     // antenna warning UI should be shown
-    hiddenState = HeadphoneState.deviceHeadphoneState | mozFMRadio.antennaAvailable; // Proper check to display a warning that doesn't close the app
-    if (!hiddenState) FMRadio.updateDimLightState(false);
-    FMElementAntennaUnplugWarning.hidden = hiddenState;
+    hiddenState = shownAntennaWarning | HeadphoneState.deviceHeadphoneState | mozFMRadio.antennaAvailable; // Proper check to display a warning that doesn't close the app
+    if (!shownAntennaWarning && !hiddenState) {
+      if (!hiddenState) FMRadio.updateDimLightState(false);
+      FMElementAntennaUnplugWarning.hidden = hiddenState;
+      if (!hiddenState) shownAntennaWarning = true;
+    }
 
     // If current airplane mode is enabled,
     // airplane mode warning UI should be shown
@@ -37,6 +41,6 @@
 
     StatusManager.update(status);
   };
-
+  
   exports.WarningUI = new WarningUI();
 })(window);
