@@ -98,7 +98,6 @@
       FrequencyList.updateFavoriteListUI();
       // Update frequency dialer UI
       FrequencyDialer.updateFrequency();
-      WarningUI.update();
       FocusManager.update();
     } else if (StatusManager.status === StatusManager.STATUS_STATIONS_SHOWING) {
       // Update current frequency as favorite to data base,
@@ -122,7 +121,6 @@
       FrequencyManager.updateFrequencyFavorite(FrequencyDialer.getFrequency(), false);
       // Update favorite list UI
       FrequencyList.updateFavoriteListUI();
-      WarningUI.update();
       FocusManager.update();
     } else if (StatusManager.status === StatusManager.STATUS_STATIONS_SHOWING) {
       // Update current frequency as unfavorite to data base,
