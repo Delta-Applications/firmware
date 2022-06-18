@@ -196,7 +196,7 @@ a:active {
 }
 
 .dim {
-  opacity: 0.3;
+  opacity: 0;
 }
 
 .dim .focus {

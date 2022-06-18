@@ -118,7 +118,7 @@
   };
 
   FMRadio.prototype.onFMRadioDisabled = function() {
-    this.updateDimLightState(true);
+    if (FMElementAntennaUnplugWarning.hidden) this.updateDimLightState(true);
 
     // Change speaker state false, make sure speaker state in FMRadio
     // will not impact on the other apps, see bug 14274
@@ -175,7 +175,7 @@
     // Request might fail, see bug862672
     request.onerror = function() {
       this.updateTurningOnUI(false);
-      this.updateDimLightState(true);
+      if (FMElementAntennaUnplugWarning.hidden) this.updateDimLightState(true);
     }.bind(this);
 
     this.updateTurningOnUI(true);
@@ -217,7 +217,7 @@
         let cacheHtml = document.getElementById('fm-container');
         let codeNode = FMCache.cloneAsInertNodeAvoidingCustomElementHorrors(cacheHtml);
         if (!codeNode.classList.contains('dim')) {
-          codeNode.classList.add('dim');
+          if (FMElementAntennaUnplugWarning.hidden) codeNode.classList.add('dim');
         }
         FMCache.saveFromNode('fm-container', codeNode);
       }

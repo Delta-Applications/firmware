@@ -228,6 +228,8 @@
       return;
     }
 
+
+
     this.keyDownFreezeTimeout = setTimeout(function() {
       clearTimeout(this.keyDownFreezeTimeout);
       this.keyDownFreezeTimeout = null;
@@ -325,6 +327,8 @@
           this.isMicrophoneToggle = true;
           break;
       case 'Enter':
+        FMElementAntennaUnplugWarning.hidden = true
+
         if (StatusManager.status === StatusManager.STATUS_WARNING_SHOWING) {
           if (window.closeFMResolve) {
             window.addEventListener("visibilitychange", () => {

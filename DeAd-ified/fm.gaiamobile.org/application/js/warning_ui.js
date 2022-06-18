@@ -10,7 +10,8 @@
 
     // If current device has no valid antenna,
     // antenna warning UI should be shown
-    hiddenState = HeadphoneState.deviceWithValidAntenna;
+    hiddenState = HeadphoneState.deviceHeadphoneState | mozFMRadio.antennaAvailable; // Proper check to display a warning that doesn't close the app
+    if (!hiddenState) FMRadio.updateDimLightState(false);
     FMElementAntennaUnplugWarning.hidden = hiddenState;
 
     // If current airplane mode is enabled,
