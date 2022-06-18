@@ -6,9 +6,6 @@
 		"webapps-manage": {}
 	},
 	"icons": {
-		"56": "app://settings.gaiamobile.org/style/icons/settings_56.png",
-		"84": "app://settings.gaiamobile.org/style/icons/settings_84.png",
-		"112": "app://settings.gaiamobile.org/style/icons/settings_112.png",
 		"126": "/icon.png"
 	},
 	"launch_path": "/index.html",
@@ -16,7 +13,7 @@
 	"chrome": {
 		"statusbar": "overlap"
 	},
-	"developer": { "name": "Cyan", "url": "https://github.com/cyan-2048/casaroro-launcher" },
+	"developer": { "name": "Cyan", "url": "https://github.com/cyan-2048" },
 	"theme_color": "#20afcc",
 	"version": "0.0.1"
 }
