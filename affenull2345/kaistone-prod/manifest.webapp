@@ -1,0 +1,10 @@
+{
+	"name": "KaiStone",
+	"description": "An alternative KaiStore client!",
+	"type": "privileged",
+	"permissions": {
+		"systemXHR": {}
+	},
+	"launch_path": "/index.html",
+	"origin": "app://kaistone.affe.null"
+}

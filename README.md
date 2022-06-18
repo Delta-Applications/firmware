@@ -37,3 +37,14 @@ What could be used to achieve the SMS App message style would be to firstly make
 ![icon](icons/appicons/msg/bubbles/signal.png)
 - IRC Integration with SMS App Style (Similiar to existing Freenode app, but will allow connection to other IRC Servers and display messages like SMS does)  
 ![icon](icons/appicons/msg/bubbles/freenode.png)
+
+
+### Required default applications for exploration/hiking purposes
+- Network Test
+- Sun and Moon (HereINFO)
+- KaiWeather
+- Modified File Manager
+- KaiMap
+- KaiAuth (Identification)
+- QR Reader
+- To-do list
